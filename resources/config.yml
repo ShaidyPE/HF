@@ -1,0 +1,12 @@
+---
+#For players
+max_food: 20
+max_health: 20
+
+#Messages
+player_food: Your food has updated!
+sender_food: Your succesful updated food!
+
+player_health: Your health has updated!
+sender_health: Your succesful updated health!
+...
